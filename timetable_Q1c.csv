@@ -1,0 +1,7 @@
+"Course","Students","Slot","Period","Venue","Day","Session"
+"CDS506",38,1,1,"Venue 1","Day 1","Morning"
+"CDS512",64,4,2,"Venue 2","Day 1","Afternoon"
+"CDS521",65,6,3,"Venue 2","Day 2","Morning"
+"CCS592",38,7,4,"Venue 1","Day 2","Afternoon"
+"CDS501",54,8,4,"Venue 2","Day 2","Afternoon"
+"CDS523",6,9,5,"Venue 1","Day 3","Morning"
